@@ -47,7 +47,7 @@ Home services, med spas, gyms, dental, legal, restoration, real estate teams —
 - **Book a call:** https://calendly.com/the-brendan-ecker-influence-guest-booking/guestbooking
 - **Website:** https://www.goldsharkmedia.com
 - **LinkedIn:** https://www.linkedin.com/in/brendanecker/
-- **YouTube (optional):** https://www.youtube.com/@BrendanEcker
+- **YouTube:** https://www.youtube.com/@BrendanEcker
 - **Email:** your@email.com
 
 ---
